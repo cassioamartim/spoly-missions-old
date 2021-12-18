@@ -1,0 +1,6 @@
+name: Missoes
+main: me.spoly.Main
+author: Cassio
+version: 1.0
+commands:
+  setmissoes:
